@@ -16,4 +16,4 @@ academic research and production-ready Machine Learning models.
 ---
 
 ### 📫 Connect with me:
-[LinkedIn]((https://www.linkedin.com/in/ulises-dominguez-374055245/)) | [Email](ulisesdominguez444@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ulises-dominguez-374055245/) | [Email](ulisesdominguez444@gmail.com)

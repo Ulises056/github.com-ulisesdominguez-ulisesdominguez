@@ -13,6 +13,10 @@ academic research and production-ready Machine Learning models.
 - **Machine Learning:** Regression, Classification, Clustering, XGBoost, Model Evaluation.
 - **Deployment & Tools:** FastAPI, Docker (Learning), Streamlit, Linux.
 
+- 🔭 I’m currently working on: End-to-End Sales Prediction Project.
+
+🌱 I’m currently learning: Docker & FastAPI for ML models.
+
 ---
 
 ### 📫 Connect with me:
